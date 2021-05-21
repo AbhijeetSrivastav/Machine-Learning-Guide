@@ -104,8 +104,20 @@
 <center>
   <table>
     <tr>
-      <td><img width="120" alt="chdemko" src="Assets\svr.png"></td>
-      <td><img width="120" alt="chendaniely" src="Assets\rfr.png"></td>
+      <td><img width="600" alt="Support Vector Regression" src="Assets\svr.png"></td>
+      <td><img width="600" alt="Random Forest Regression" src="Assets\rfr.png"></td>
+    </tr>
+    <tr>
+      <td><img width="600" alt="Polynomial Regression" src="Assets\pr.png"></td>
+      <td><img width="600" alt="Multiple Regression" src="Assets\mr.png"></td>
+    </tr>
+    <tr>
+      <td><img width="600" alt="Linear Regression" src="Assets\lr.png"></td>
+      <td><img width="600" alt="Artificial Neural Network" src="Assets\ann.png"></td>
+    </tr>
+    <tr>
+      <td><img width="600" alt="Dendogram" src="Assets\dg.png"></td>
+      <td><img width="600" alt="Clustering" src="Assets\cl.png"></td>
     </tr>
   </table>
 </center>

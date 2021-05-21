@@ -135,14 +135,17 @@
 ![-----------------------------------------------------](Assets/rainbow.png)
 
 <!-- Contribution -->
-<h2 id="contribution"> :book: Contribution</h2>
+<h2 id="contribution"> :paperclip: Contribution</h2>
 
-<p>You are able to start the game by typing the following commands in the command line:</p>
-<pre><code>$ python pacman.py</code></pre>
+The Machine Learning Guide Project is a open source project. I a committed to a fully transparent development process and highly appreciate any contributions. Whether you are helping me fixing bugs, proposing new feature, improving our documentation or spreading the word - we would love to have you as part of this project.
 
-<p>You can see the list of all options and their default values via:</p>
-<pre><code>$ python pacman.py -h</code></pre>
-<i>Note that all of the commands that appear in this project also appear in <code>commands.txt</code>, for easy copying and pasting.</i>
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Model Branch (`git checkout -b model/AmazingModel`)
+3. Commit your Changes (`git commit -m 'Add some AmazingModel'`)
+4. Push to the Branch (`git push origin model/AmazingModel`)
+5. Open a Pull Request
 
 ![-----------------------------------------------------](Assets/rainbow.png)
 

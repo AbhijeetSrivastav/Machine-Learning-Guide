@@ -101,12 +101,14 @@
 <!-- Showcase -->
 <h2 id="showcase"> :book: Showcase</h2>
 
-<p>You are able to start the game by typing the following commands in the command line:</p>
-<pre><code>$ python pacman.py</code></pre>
-
-<p>You can see the list of all options and their default values via:</p>
-<pre><code>$ python pacman.py -h</code></pre>
-<i>Note that all of the commands that appear in this project also appear in <code>commands.txt</code>, for easy copying and pasting.</i>
+<center>
+  <table>
+    <tr>
+      <td><img width="120" alt="chdemko" src="Assets\svr.png"></td>
+      <td><img width="120" alt="chendaniely" src="Assets\rfr.png"></td>
+    </tr>
+  </table>
+</center>
 
 ![-----------------------------------------------------](Assets/rainbow.png)
 

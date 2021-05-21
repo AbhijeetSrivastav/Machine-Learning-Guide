@@ -1,5 +1,13 @@
 # Machine Learning Guide
 
+
+<a href="https://github.com/AbhijeetSrivastav/Machine-Learning-Guide/stargazers"><img src="https://img.shields.io/github/stars/AbhijeetSrivastav/Machine-Learning-Guide" alt="Stars Badge"/></a>
+<a href="https://github.com/AbhijeeetSrivastav/Machine-Learning-Guide/network/members"><img src="https://img.shields.io/github/forks/AbhijeeetSrivastav/Machine-Learning-Guide" alt="Forks Badge"/></a>
+<a href="https://github.com/AbhijeeetSrivastav/Machine-Learning-Guide/pulls"><img src="https://img.shields.io/github/issues-pr/AbhijeeetSrivastav/Machine-Learning-Guide" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/AbhijeeetSrivastav/Machine-Learning-Guide/issues"><img src="https://img.shields.io/github/issues/AbhijeeetSrivastav/Machine-Learning-Guide" alt="Issues Badge"/></a>
+<a href="https://github.com/abhisheknaiidu/AbhijeeetSrivastav/Machine-Learning-Guide"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/AbhijeeetSrivastav/Machine-Learning-Guide?color=2b9348"></a>
+<a href="https://github.com/abhisheknaiidu/AbhijeeetSrivastav/Machine-Learning-Guide/blob/master/LICENSE"><img src="https://img.shields.io/github/license/AbhijeeetSrivastav/Machine-Learning-Guide?color=2b9348" alt="License Badge"/></a>
+
 <p align="center"> 
   <img src="Assets/ml.jpg" alt="Machine Learning" height="350" width="1600">
 </p>
@@ -84,7 +92,7 @@
 
 
 <!-- GETTING STARTED -->
-<h2 id="getting-started"> :book: Getting Started</h2>
+<h2 id="getting-started"> :pushpin: Getting Started</h2>
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
@@ -99,7 +107,7 @@ To get a local copy up and running follow these simple example steps.
 
 
 <!-- Showcase -->
-<h2 id="showcase"> :book: Showcase</h2>
+<h2 id="showcase"> :camera: Showcase</h2>
 
 <center>
   <table>
@@ -223,9 +231,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SO
 Abhijeet Srivastav
 
 ![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whitehttps://github.com/AbhijeetSrivastav)
-![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=style=for-the-badge&logo=Linkedin&logoColor=whitehttps://www.linkedin.com/in/abhijeet-srivastav-02245a18b/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=style=for-thebadge&logo=Instagram&logoColor=whitehttps://instagram.com/abhijeet.codes/)
+![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=style=for-thebadge&logo=Instagram&logoColor=whitehttps://instagram.com/abhijeet.codes/)
 
 
 ![-----------------------------------------------------](Assets/rainbow.png)

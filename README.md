@@ -4,6 +4,7 @@
   <img src="Assets/ml_ban.jpg" alt="Machine Learning" height="290px" width="700">
 </p>
 
+
 <!-- TABLE OF CONTENTS -->
 <h2 id="table-of-contents"> :book: Table of Contents</h2>
 
@@ -25,6 +26,7 @@
   </ol>
 </details>
 
+
 ![-----------------------------------------------------](Assets/rainbow.png)
 
 
@@ -34,6 +36,7 @@
 <p align="justify"> 
   For those of you not familiar with Pacman, it's a game where Pacman (the yellow circle with a mouth in the above figure) moves around in a maze and tries to eat as many food pellets (the small white dots) as possible, while avoiding the ghosts (the other two agents with eyes in the above figure). If Pacman eats all the food in a maze, it wins.
 </p>
+
 
 ![-----------------------------------------------------](Assets/rainbow.png)
 
@@ -45,14 +48,30 @@
   In this project, the Pacman agent will find paths through his maze world, both to reach a particular location and to collect food efficiently. I implemented general search algorithms such as depth-first, breadth-first, uniform cost, and A* search algorithms which are used to solve navigation problems in the Pacman world.
 </p>
 
+
 ![-----------------------------------------------------](Assets/rainbow.png)
+
 
 <!-- BUILD WITH -->
 <h2 id="build-with"> :cloud: Build With</h2>
 
-<p align="justify"> 
-  In this project, the Pacman agent will find paths through his maze world, both to reach a particular location and to collect food efficiently. I implemented general search algorithms such as depth-first, breadth-first, uniform cost, and A* search algorithms which are used to solve navigation problems in the Pacman world.
-</p>
+<center>
+    <tr>
+        <td>
+            <img src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/LanguageToolsIcon/pytorch/pytorch.svg"                            alt="pytorch" height="42px"/> 
+        </td>
+        <td>
+            <img src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/LanguageToolsIcon/tensorflow/tensorflow.svg"                      alt="tensorflow" height="42px"/>
+        </td>
+            <img src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/LanguageToolsIcon/python/python.svg" 
+             alt="Python" height ="42px"/>
+        <td>
+            <img src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/LanguageToolsIcon/git-scm/git-scm.svg" 
+             alt="git" height='42px'/>
+        </td>
+     </tr>
+</center>    
+
 
 ![-----------------------------------------------------](Assets/rainbow.png)
 
@@ -61,42 +80,29 @@
 <h2 id="project-files-description"> :floppy_disk: Project Files Description</h2>
 
 <ul>
-  <li><b>search.py</b> - Where all of the search algorithms reside.</li>
-  <li><b>searchAgents.py</b> - Where all of the search-based agents reside.</li>
-  <li><b>pacman.py</b> - The main file that runs Pacman games. This file also describes a Pacman GameState types.</li>
-  <li><b>game.py</b> - The logic behind how the Pacman world works.</li>
-  <li><b>util.py</b> - Useful data structures for implementing search algorithms.</li>
-</ul>
-
-<h3>Some other supporting files</h3>
-<ul>
-  <li><b>graphicsDisplay.py</b> - Graphics for Pacman.</li>
-  <li><b>graphicsUtils.py</b> - Support for Pacman graphics.</li>
-  <li><b>textDisplay.py</b> - ASCII graphics for Pacman.</li>
-  <li><b>ghostAgents.py</b> - Agents to control ghosts.</li>
-  <li><b>keyboardAgents.py</b> - Keyboard interfaces to control Pacman.</li>
-  <li><b>layout.py</b> - Code for reading layout files and storing their contents.</li>
-  <li><b>autograder.py</b> - Project autograder.</li>
-  <li><b>testParser.py</b> - Parses autograder test and solution files.</li>
-  <li><b>testClasses.py</b> - General autograding test classes.</li>
-  <li><b>test_cases/</b> - Directory containing the test cases for each scenario.</li>
-  <li><b>searchTestClasses.py</b> - Project specific autograding test classes.</li>
+  <li><b>model_name.ipynb</b> - General format of model file.</li>
+  <li><b>Datasets</b> - All datasets in csv, tsv, txt format</li>
+  <li><b>Image Dataset</b> - For CNN this repo contains set of 9000 images</li>
 </ul>
 
 
 ![-----------------------------------------------------](Assets/rainbow.png)
+
 
 <!-- GETTING STARTED -->
 <h2 id="getting-started"> :book: Getting Started</h2>
 
-<p>You are able to start the game by typing the following commands in the command line:</p>
-<pre><code>$ python pacman.py</code></pre>
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
 
-<p>You can see the list of all options and their default values via:</p>
-<pre><code>$ python pacman.py -h</code></pre>
-<i>Note that all of the commands that appear in this project also appear in <code>commands.txt</code>, for easy copying and pasting.</i>
+<pre><code>$ git clone https://github.com/AbhijeetSrivastav/Machine-Learning-Guide.git</code></pre>
+<pre><code>$ conda install -r requirements.txt</code></pre>
+<pre><code>$ cd Project Directory</code></pre>
+<pre><code>$ jupyter notebook "model_name.ipynb"</code></pre>
+
 
 ![-----------------------------------------------------](Assets/rainbow.png)
+
 
 <!-- Showcase -->
 <h2 id="showcase"> :book: Showcase</h2>
@@ -104,13 +110,27 @@
 <center>
   <table>
     <tr>
-      <td><img width="120" alt="chdemko" src="Assets\svr.png"></td>
-      <td><img width="120" alt="chendaniely" src="Assets\rfr.png"></td>
+      <td><img width="600" alt="Support Vector Regression" src="Assets\svr.png"></td>
+      <td><img width="600" alt="Random Forest Regression" src="Assets\rfr.png"></td>
+    </tr>
+    <tr>
+      <td><img width="600" alt="Polynomial Regression" src="Assets\pr.png"></td>
+      <td><img width="600" alt="Multiple Regression" src="Assets\mr.png"></td>
+    </tr>
+    <tr>
+      <td><img width="600" alt="Linear Regression" src="Assets\lr.png"></td>
+      <td><img width="600" alt="Artificial Neural Network" src="Assets\ann.png"></td>
+    </tr>
+    <tr>
+      <td><img width="600" alt="Dendogram" src="Assets\dg.png"></td>
+      <td><img width="600" alt="Clustering" src="Assets\cl.png"></td>
     </tr>
   </table>
 </center>
 
+
 ![-----------------------------------------------------](Assets/rainbow.png)
+
 
 <!-- Requirements -->
 <h2 id="requirements"> :nut_and_bolt: Requirements</h2>
@@ -126,7 +146,9 @@
 <p>Or you can install all the required packages at once by using this requirements.txt file.</p>
 <pre><code>$  pip install -r requirements.txt</code></pre>
 
+
 ![-----------------------------------------------------](Assets/rainbow.png)
+
 
 <!-- Usage -->
 <h2 id="usage"> :bookmark: Usage</h2>
@@ -135,7 +157,9 @@ This Machine Learning Guide project is made as collection of several Jupyter Noe
 
 Models are present in different models with a dataset to test the model and learn from the outputs. Notebooks contain theory related to model, code implementataion and expaination of implementation.
 
+
 ![-----------------------------------------------------](Assets/rainbow.png)
+
 
 <!-- Contribution -->
 <h2 id="contribution"> :paperclip: Contribution</h2>
@@ -150,7 +174,9 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin model/AmazingModel`)
 5. Open a Pull Request
 
+
 ![-----------------------------------------------------](Assets/rainbow.png)
+
 
 <!-- Support -->
 <h2 id="support"> :sparkling_heart: Support</h2>
@@ -166,7 +192,9 @@ However, if you are using this project and are happy with it or just want to enc
 
 Thanks! :heart:
 
+
 ![-----------------------------------------------------](Assets/rainbow.png)
+
 
 <!-- License -->
 <h2 id="license"> :book: License</h2>
@@ -191,7 +219,9 @@ DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ```
 
+
 ![-----------------------------------------------------](Assets/rainbow.png)
+
 
 <!-- Credits -->
 <h2 id="credits"> :scroll: Credits</h2>

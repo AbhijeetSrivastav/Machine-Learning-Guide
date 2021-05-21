@@ -111,26 +111,27 @@
 ![-----------------------------------------------------](Assets/rainbow.png)
 
 <!-- Requirements -->
-<h2 id="requirements"> :book: Requirements</h2>
+<h2 id="requirements"> :nut_and_bolt: Requirements</h2>
 
-<p>You are able to start the game by typing the following commands in the command line:</p>
-<pre><code>$ python pacman.py</code></pre>
+<p>All major famous Machine Learning and Deep Learning Libraries have been used in the projcet. </p>
+<p>You can install them either by installing them indivdually as per your requirment using your favourite package mangager. </p>
 
-<p>You can see the list of all options and their default values via:</p>
-<pre><code>$ python pacman.py -h</code></pre>
-<i>Note that all of the commands that appear in this project also appear in <code>commands.txt</code>, for easy copying and pasting.</i>
+<pre><code>$ pip install package</code></pre>
+
+<pre><code>$ conda install package</code></pre>
+
+
+<p>Or you can install all the required packages at once by using this requirements.txt file.</p>
+<pre><code>$  pip install -r requirements.txt</code></pre>
 
 ![-----------------------------------------------------](Assets/rainbow.png)
 
 <!-- Usage -->
-<h2 id="usage"> :book: Usage</h2>
+<h2 id="usage"> :bookmark: Usage</h2>
 
-<p>You are able to start the game by typing the following commands in the command line:</p>
-<pre><code>$ python pacman.py</code></pre>
+This Machine Learning Guide project is made as collection of several Jupyter Noetbooks that can be used as guide by newbie to get theoratical and practical test of machine learning models or by professional as bolier plate for their project.
 
-<p>You can see the list of all options and their default values via:</p>
-<pre><code>$ python pacman.py -h</code></pre>
-<i>Note that all of the commands that appear in this project also appear in <code>commands.txt</code>, for easy copying and pasting.</i>
+Models are present in different models with a dataset to test the model and learn from the outputs. Notebooks contain theory related to model, code implementataion and expaination of implementation.
 
 ![-----------------------------------------------------](Assets/rainbow.png)
 

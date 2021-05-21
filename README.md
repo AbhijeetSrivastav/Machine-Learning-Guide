@@ -1,4 +1,4 @@
-# Machine Learning Guide
+<h1 align="center"> Machine Learning Guide</h1>
 
 
 <a href="https://github.com/AbhijeetSrivastav/Machine-Learning-Guide/stargazers"><img src="https://img.shields.io/github/stars/AbhijeetSrivastav/Machine-Learning-Guide" alt="Stars Badge"/></a>

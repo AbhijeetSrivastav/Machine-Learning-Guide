@@ -147,14 +147,18 @@
 ![-----------------------------------------------------](Assets/rainbow.png)
 
 <!-- Support -->
-<h2 id="support"> :book: Support</h2>
+<h2 id="support"> :sparkling_heart: Support</h2>
 
-<p>You are able to start the game by typing the following commands in the command line:</p>
-<pre><code>$ python pacman.py</code></pre>
+I open-source almost everything I can, and I try to reply to everyone needing help using these projects. Obviously,
+this takes time. You can use this service for free.
 
-<p>You can see the list of all options and their default values via:</p>
-<pre><code>$ python pacman.py -h</code></pre>
-<i>Note that all of the commands that appear in this project also appear in <code>commands.txt</code>, for easy copying and pasting.</i>
+However, if you are using this project and are happy with it or just want to encourage me to continue creating stuff, there are few ways you can do it :-
+
+- Giving proper credit when you use Machine Learning Guide, linking back to it :D
+- Starring and sharing the project :rocket:
+-[![PayPal Badge](https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white)](https://paypal.me/abhijeetsrivastav?locale.x=en_GB)- You can make one-time donations via PayPal. I'll probably buy a ~~coffee~~ tea. :tea:
+
+Thanks! :heart:
 
 ![-----------------------------------------------------](Assets/rainbow.png)
 
@@ -163,7 +167,7 @@
 
 ```text
 The MIT License (MIT)
-Copyright (c) 2017 Vincent Hesener
+Copyright (c) 2021 Abhijeet Srivastav
  
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and
 associated documentation files (the "Software"), to deal in the Software without restriction,
@@ -191,7 +195,7 @@ Abhijeet Srivastav
 ![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whitehttps://github.com/AbhijeetSrivastav)
 ![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=style=for-the-badge&logo=Linkedin&logoColor=whitehttps://www.linkedin.com/in/abhijeet-srivastav-02245a18b/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=style=for-the-badge&logo=Instagram&logoColor=whitehttps://instagram.com/abhijeet.codes/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=style=for-thebadge&logo=Instagram&logoColor=whitehttps://instagram.com/abhijeet.codes/)
 
 
 ![-----------------------------------------------------](Assets/rainbow.png)

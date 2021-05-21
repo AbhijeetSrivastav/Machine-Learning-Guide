@@ -190,8 +190,8 @@ Abhijeet Srivastav
 
 ![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whitehttps://github.com/AbhijeetSrivastav)
 ![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=whitehttps://www.linkedin.com/in/abhijeet-srivastav-02245a18b/)
-![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=whitehttps://instagram.com/abhijeet.codes/)
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=style=for-the-badge&logo=Linkedin&logoColor=whitehttps://www.linkedin.com/in/abhijeet-srivastav-02245a18b/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=style=for-the-badge&logo=Instagram&logoColor=whitehttps://instagram.com/abhijeet.codes/)
 
 
 ![-----------------------------------------------------](Assets/rainbow.png)

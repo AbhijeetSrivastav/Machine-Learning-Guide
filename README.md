@@ -1,13 +1,5 @@
 <h1 align="center"> Machine Learning Guide</h1>
 
-
-<a href="https://github.com/AbhijeetSrivastav/Machine-Learning-Guide/stargazers"><img src="https://img.shields.io/github/stars/AbhijeetSrivastav/Machine-Learning-Guide" alt="Stars Badge"/></a>
-<a href="https://github.com/AbhijeeetSrivastav/Machine-Learning-Guide/network/members"><img src="https://img.shields.io/github/forks/AbhijeeetSrivastav/Machine-Learning-Guide" alt="Forks Badge"/></a>
-<a href="https://github.com/AbhijeeetSrivastav/Machine-Learning-Guide/pulls"><img src="https://img.shields.io/github/issues-pr/AbhijeeetSrivastav/Machine-Learning-Guide" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/AbhijeeetSrivastav/Machine-Learning-Guide/issues"><img src="https://img.shields.io/github/issues/AbhijeeetSrivastav/Machine-Learning-Guide" alt="Issues Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/AbhijeeetSrivastav/Machine-Learning-Guide"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/AbhijeeetSrivastav/Machine-Learning-Guide?color=2b9348"></a>
-<a href="https://github.com/abhisheknaiidu/AbhijeeetSrivastav/Machine-Learning-Guide/blob/master/LICENSE"><img src="https://img.shields.io/github/license/AbhijeeetSrivastav/Machine-Learning-Guide?color=2b9348" alt="License Badge"/></a>
-
 <p align="center"> 
   <img src="Assets/ml.jpg" alt="Machine Learning" height="350" width="1600">
 </p>

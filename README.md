@@ -1,7 +1,7 @@
-# Machine Learning Guide
+<h1 align="center"> Machine Learning Guide</h1>
 
 <p align="center"> 
-  <img src="Assets/ml_ban.jpg" alt="Machine Learning" height="290px" width="700">
+  <img src="Assets/ml.jpg" alt="Machine Learning" height="350" width="1600">
 </p>
 
 
@@ -12,7 +12,6 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#about-the-project"> ➤ About The Project</a></li>
-    <li><a href="#overview"> ➤ Overview</a></li>
     <li><a href="#build-with"> ➤ Build With</a></li>
     <li><a href="#project-files-description"> ➤ Project Files Description</a></li>
     <li><a href="#getting-started"> ➤ Getting Started</a></li>
@@ -34,9 +33,10 @@
 <h2 id="about-the-project"> :pencil: About The Project</h2>
 
 <p align="justify"> 
-  For those of you not familiar with Pacman, it's a game where Pacman (the yellow circle with a mouth in the above figure) moves around in a maze and tries to eat as many food pellets (the small white dots) as possible, while avoiding the ghosts (the other two agents with eyes in the above figure). If Pacman eats all the food in a maze, it wins.
+  Machine Learning Guide is an open source project which I made as collection of different Machine Learning Models collection to act as boiler plate template for professionals     or act as theoratical and prcatical guide for newbies. 
 </p>
 
+<<<<<<< HEAD
 
 ![-----------------------------------------------------](Assets/rainbow.png)
 
@@ -44,8 +44,10 @@
 <!-- OVERVIEW -->
 <h2 id="overview"> :cloud: Overview</h2>
 
+=======
+>>>>>>> f97fb0c79aab226020ef41e95af894f04f0ba85f
 <p align="justify"> 
-  In this project, the Pacman agent will find paths through his maze world, both to reach a particular location and to collect food efficiently. I implemented general search algorithms such as depth-first, breadth-first, uniform cost, and A* search algorithms which are used to solve navigation problems in the Pacman world.
+  This project contains most of machine learning models and still growing in ipynb notebook format. Each notebook contains theory relevant to that model, implementation and       explaination of each code cell.
 </p>
 
 
@@ -53,8 +55,28 @@
 
 
 <!-- BUILD WITH -->
-<h2 id="build-with"> :cloud: Build With</h2>
+<h2 id="build-with"> :hammer: Build With</h2>
 
+<center>
+  <table>
+    <tr>
+        <td>
+          <img src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/LanguageToolsIcon/python/python.svg" alt="Python" height ="42px"/>
+        </td>
+        <td>
+            <img src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/LanguageToolsIcon/pytorch/pytorch.svg" alt="pytorch" height="42px"/> 
+        </td>
+        <td>
+            <img src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/LanguageToolsIcon/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/>
+        </td>
+        <td>
+            <img src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/LanguageToolsIcon/git-scm/git-scm.svg" alt="git" height='42px'/>
+        </td>
+    </tr>
+   </table>
+</center>    
+
+<<<<<<< HEAD
 <center>
     <tr>
         <td>
@@ -72,6 +94,8 @@
      </tr>
 </center>    
 
+=======
+>>>>>>> f97fb0c79aab226020ef41e95af894f04f0ba85f
 
 ![-----------------------------------------------------](Assets/rainbow.png)
 
@@ -90,11 +114,17 @@
 
 
 <!-- GETTING STARTED -->
-<h2 id="getting-started"> :book: Getting Started</h2>
+<h2 id="getting-started"> :pushpin: Getting Started</h2>
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
+<<<<<<< HEAD
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
+
+=======
+>>>>>>> f97fb0c79aab226020ef41e95af894f04f0ba85f
 <pre><code>$ git clone https://github.com/AbhijeetSrivastav/Machine-Learning-Guide.git</code></pre>
 <pre><code>$ conda install -r requirements.txt</code></pre>
 <pre><code>$ cd Project Directory</code></pre>
@@ -105,7 +135,7 @@ To get a local copy up and running follow these simple example steps.
 
 
 <!-- Showcase -->
-<h2 id="showcase"> :book: Showcase</h2>
+<h2 id="showcase"> :camera: Showcase</h2>
 
 <center>
   <table>
@@ -229,9 +259,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SO
 Abhijeet Srivastav
 
 ![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whitehttps://github.com/AbhijeetSrivastav)
-![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=style=for-the-badge&logo=Linkedin&logoColor=whitehttps://www.linkedin.com/in/abhijeet-srivastav-02245a18b/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=style=for-thebadge&logo=Instagram&logoColor=whitehttps://instagram.com/abhijeet.codes/)
+![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=style=for-thebadge&logo=Instagram&logoColor=whitehttps://instagram.com/abhijeet.codes/)
 
 
 ![-----------------------------------------------------](Assets/rainbow.png)

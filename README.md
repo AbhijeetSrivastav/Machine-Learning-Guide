@@ -57,15 +57,19 @@
   <table>
     <tr>
         <td>
+          <a href="https://www.python.org" target="_blank">
           <img src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/LanguageToolsIcon/python/python.svg" alt="Python" height ="42px"/>
         </td>
         <td>
+          <a href="https://pytorch.org/" target="_blank">
             <img src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/LanguageToolsIcon/pytorch/pytorch.svg" alt="pytorch" height="42px"/> 
         </td>
         <td>
+          <a href="https://www.tensorflow.org" target="_blank">
             <img src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/LanguageToolsIcon/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/>
         </td>
         <td>
+          <a href="https://git-scm.com/" target="_blank">
             <img src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/LanguageToolsIcon/git-scm/git-scm.svg" alt="git" height='42px'/>
         </td>
     </tr>

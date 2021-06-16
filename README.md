@@ -230,11 +230,12 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SO
 
 Abhijeet Srivastav
 
-[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbhijeetSrivastav)
+- [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbhijeetSrivastav)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abhijeet-srivastav-02245a18b/)
+- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abhijeet-srivastav-02245a18b/)
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=style=for-thebadge&logo=Instagram&logoColor=white)](https://instagram.com/abhijeet.codes/)
+- [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=style=for-thebadge&logo=Instagram&logoColor=white)](https://instagram.com/abhijeet.codes/)
+
 
 
 ![-----------------------------------------------------](Assets/rainbow.png)

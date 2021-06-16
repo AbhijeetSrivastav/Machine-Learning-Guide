@@ -36,16 +36,12 @@
   Machine Learning Guide is an open source project which I made as collection of different Machine Learning Models collection to act as boiler plate template for professionals     or act as theoratical and prcatical guide for newbies. 
 </p>
 
-<<<<<<< HEAD
 
 ![-----------------------------------------------------](Assets/rainbow.png)
 
 
 <!-- OVERVIEW -->
 <h2 id="overview"> :cloud: Overview</h2>
-
-=======
->>>>>>> f97fb0c79aab226020ef41e95af894f04f0ba85f
 <p align="justify"> 
   This project contains most of machine learning models and still growing in ipynb notebook format. Each notebook contains theory relevant to that model, implementation and       explaination of each code cell.
 </p>
@@ -76,14 +72,13 @@
    </table>
 </center>    
 
-<<<<<<< HEAD
 <center>
     <tr>
         <td>
-            <img src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/LanguageToolsIcon/pytorch/pytorch.svg"                            alt="pytorch" height="42px"/> 
+            <img src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/LanguageToolsIcon/pytorch/pytorch.svg" alt="pytorch" height="42px"/> 
         </td>
         <td>
-            <img src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/LanguageToolsIcon/tensorflow/tensorflow.svg"                      alt="tensorflow" height="42px"/>
+            <img src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/LanguageToolsIcon/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/>
         </td>
             <img src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/LanguageToolsIcon/python/python.svg" 
              alt="Python" height ="42px"/>
@@ -93,9 +88,6 @@
         </td>
      </tr>
 </center>    
-
-=======
->>>>>>> f97fb0c79aab226020ef41e95af894f04f0ba85f
 
 ![-----------------------------------------------------](Assets/rainbow.png)
 
@@ -119,12 +111,9 @@
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-<<<<<<< HEAD
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-=======
->>>>>>> f97fb0c79aab226020ef41e95af894f04f0ba85f
 <pre><code>$ git clone https://github.com/AbhijeetSrivastav/Machine-Learning-Guide.git</code></pre>
 <pre><code>$ conda install -r requirements.txt</code></pre>
 <pre><code>$ cd Project Directory</code></pre>

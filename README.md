@@ -70,24 +70,7 @@
         </td>
     </tr>
    </table>
-</center>    
-
-<center>
-    <tr>
-        <td>
-            <img src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/LanguageToolsIcon/pytorch/pytorch.svg" alt="pytorch" height="42px"/> 
-        </td>
-        <td>
-            <img src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/LanguageToolsIcon/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/>
-        </td>
-            <img src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/LanguageToolsIcon/python/python.svg" 
-             alt="Python" height ="42px"/>
-        <td>
-            <img src="https://github.com/AbhijeetSrivastav/AbhijeetSrivastav/blob/main/LanguageToolsIcon/git-scm/git-scm.svg" 
-             alt="git" height='42px'/>
-        </td>
-     </tr>
-</center>    
+</center>      
 
 ![-----------------------------------------------------](Assets/rainbow.png)
 

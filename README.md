@@ -194,7 +194,7 @@ However, if you are using this project and are happy with it or just want to enc
 
 - Giving proper credit when you use Machine Learning Guide, linking back to it :D
 - Starring and sharing the project :rocket:
-- [![PayPal Badge](https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white)](https://paypal.me/abhijeetsrivastav?locale.x=en_GB) You can make one-time donations via PayPal. I'll probably buy a ~~coffee~~ tea. :tea:
+- [![PayPal Badge](https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white)](https://paypal.me/abhijeetsrivastav292?locale.x=en_GB) You can make one-time donations via PayPal. I'll probably buy a ~~coffee~~ tea. :tea:
 
 Thanks! :heart:
 
